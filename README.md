@@ -1,4 +1,14 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:b063dc,100:B62372&text=Code%20Iwan&fontAlignY=47&section=header&reversal=false&textBg=false&fontColor=dcdff5&fontSize=80&animation=twinkling)
+
+# 📈 STATS
+## Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafyiwan)](https://solved.ac/profile/ssafyiwan)
+[![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=ssafyiwan)](https://solved.ac/profile/ssafyiwan)
+## GitHub
+![codeiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeiwan&show_icons=true&theme=default)
+![codeiwan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeiwan&layout=compact&them=default&langs_count=8)
+
+<!-- ## Hi there 👋 -->
 
 <!--
 **codeiwan/codeiwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
