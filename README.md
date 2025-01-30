@@ -13,6 +13,7 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 ## Framework
+[![React](https://img.shields.io/badge/react-222222.svg?style=for-the-badge&logo=react&logoColor=61dafb)](https://ko.legacy.reactjs.org/)
 [![Django](https://img.shields.io/badge/django-%230c4b33.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 ## Version Control
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
