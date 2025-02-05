@@ -18,38 +18,22 @@
 <h1 align="center">🖥️ STACKS</h1>
 <h2 align="center">Language</h2>
 <p align="center">
-  <a href="https://www.java.com/ko/">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  </a>
-  <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript">
-  </a>
+  <a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript"></a>
 </p>
 
 <h2 align="center">Framework</h2>
 <p align="center">
-  <a href="https://spring.io/">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" >
-  </a>
-  <a href="https://www.djangoproject.com/">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-  </a>
-  <a href="https://ko.legacy.reactjs.org/">
-    <img src="https://shields.io/badge/react-black?style=for-the-badge&logo=react">
-  </a>
+  <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></a>
+  <a href="https://ko.legacy.reactjs.org/"><img src="https://shields.io/badge/react-black?style=for-the-badge&logo=react"></a>
 </p>
 
 <h2 align="center">Version Control</h2>
 <p align="center">
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white">
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <div align="right">
