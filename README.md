@@ -15,6 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeiwan&layout=compact&them=default&langs_count=8">
 </p>
 
+<br/>
 <h1 align="center">🖥️ STACKS</h1>
 <h2 align="center">Language</h2>
 <p align="center">
@@ -34,6 +35,14 @@
 <p align="center">
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<br/>
+<h1 align="center">📚 CAREERS</h1>
+<p align="center">
+  <a href="https://www.riansoft.io/"><img src="https://github.com/user-attachments/assets/73427193-902d-400f-9bd7-857429716abb" height="50"></a><br/>
+  <b>리안소프트 주식회사(Rian Soft Inc.)</b><br/>
+  2025.03 ~ 현재 - AI (인턴)
 </p>
 
 <div align="right">
