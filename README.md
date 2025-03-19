@@ -29,6 +29,7 @@
   <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></a>
   <a href="https://ko.legacy.reactjs.org/"><img src="https://shields.io/badge/react-black?style=for-the-badge&logo=react"></a>
+  <a href="https://fastapi.tiangolo.com/ko/"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
 </p>
 
 <h2 align="center">Version Control</h2>
