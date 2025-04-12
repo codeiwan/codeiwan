@@ -48,7 +48,7 @@
 
 <div align="right">
   <span>📩 dy6153@naver.com</span><br>
-  <span>📩 ssafyiwan@gmail.com</span>
+  <span>📩 pewlv7976@gmail.com</span>
 </div>
 
 ---
