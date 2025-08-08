@@ -43,7 +43,7 @@
 <p align="center">
   <a href="https://www.riansoft.io/"><img src="https://github.com/user-attachments/assets/73427193-902d-400f-9bd7-857429716abb" height="50"></a><br/>
   <b>리안소프트 주식회사(Rian Soft Inc.)</b><br/>
-  2025.03 ~ 현재 - AI (인턴)
+  2025.03 ~ 현재 - SW개발팀 (AI)
 </p>
 
 <div align="right">
