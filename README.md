@@ -9,11 +9,13 @@
   <a href="https://solved.ac/profile/ssafyiwan"><img src="http://mazandi.herokuapp.com/api?handle=ssafyiwan"></a>
 </p>
 
+<!--
 <h2 align="center">GitHub</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codeiwan&show_icons=true&theme=default">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeiwan&layout=compact&them=default&langs_count=8">
 </p>
+-->
 
 <br/>
 <h1 align="center">🖥️ STACKS</h1>
