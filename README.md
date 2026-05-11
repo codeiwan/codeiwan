@@ -73,10 +73,10 @@
 <br/>
 
 <h1 align="center">📈 ACTIVITY & STATS</h1>
-<p align="center">알고리즘 스트릭!!</p>
+<!-- <p align="center">알고리즘 스트릭!!</p> -->
 <p align="center">
   <a href="https://solved.ac/profile/ssafyiwan"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafyiwan"></a>
-  <a href="https://solved.ac/profile/ssafyiwan"><img src="http://mazandi.herokuapp.com/api?handle=ssafyiwan"></a>
+  <!-- <a href="https://solved.ac/profile/ssafyiwan"><img src="http://mazandi.herokuapp.com/api?handle=ssafyiwan"></a> -->
 </p>
 
 <br/>
