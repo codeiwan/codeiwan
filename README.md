@@ -75,6 +75,10 @@
 <h1 align="center">📈 ACTIVITY & STATS</h1>
 <!-- <p align="center">알고리즘 스트릭!!</p> -->
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeiwan&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Langs" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeiwan&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak" height="165" />
+</p>
+<p align="center">
   <a href="https://solved.ac/profile/ssafyiwan"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafyiwan"></a>
   <!-- <a href="https://solved.ac/profile/ssafyiwan"><img src="http://mazandi.herokuapp.com/api?handle=ssafyiwan"></a> -->
 </p>
